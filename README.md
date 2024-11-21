@@ -35,6 +35,8 @@ Version: 2024-06 (4.32.0)
 **Murilo Ramos Terra Rodrigues** - *Trabalho Inicial* - Atividade Individual - Controle de Produtos.
 
 ## Imagem
-
+![CONTROLE_PRODUTOS](https://github.com/murilove69/CONTROLE_PRODUTOS/blob/master/BD%20Alimento.png).
+![CONTROLE_PRODUTOS](https://github.com/murilove69/CONTROLE_PRODUTOS/blob/master/BD%20Vestuario.png).
+![CONTROLE_PRODUTOS](https://github.com/murilove69/CONTROLE_PRODUTOS/blob/master/Produtos%20Adicionados.png).
 
 
